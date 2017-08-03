@@ -3,5 +3,5 @@ node_modules
 jspm_packages
 npm-debug.log
 debug.log
-src/**/*.js
-src/**/*.js.map
+src/app/*.js
+src/app/*.js.map
